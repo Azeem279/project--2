@@ -7,4 +7,4 @@ on smaller screens.
 
 **Skills used:** Responsive design, CSS layout techniques (Flexbox/Grid, media queries)
 
-**Files:** daana-simple.html, daana-simple.css
+
